@@ -11,6 +11,9 @@ import java.util.Date;
 import java.util.List;
 import java.util.Random;
 
+/**
+ * 生产者对象
+ */
 public class LocalFileProducer implements Producer {
     private DataIn in;
     private DataOut out;

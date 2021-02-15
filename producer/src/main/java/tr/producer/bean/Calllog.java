@@ -1,5 +1,8 @@
 package tr.producer.bean;
 
+/**
+ * 生产的数据对象
+ */
 public class Calllog {
     private String call1;
     private String call2;

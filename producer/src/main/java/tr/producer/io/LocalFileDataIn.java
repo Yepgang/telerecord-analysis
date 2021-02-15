@@ -7,6 +7,9 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 读取数据，存在特定的List中
+ */
 public class LocalFileDataIn implements DataIn {
     private BufferedReader reader = null;
 

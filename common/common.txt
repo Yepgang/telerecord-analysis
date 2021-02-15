@@ -1,0 +1,42 @@
+.
+├── common.iml
+├── common.txt
+├── pom.xml
+├── src
+│   ├── main
+│   │   ├── java
+│   │   │   └── tr
+│   │   │       └── common
+│   │   │           ├── bean
+│   │   │           │   ├── DataIn.java
+│   │   │           │   ├── Data.java
+│   │   │           │   ├── DataOut.java
+│   │   │           │   ├── Producer.java
+│   │   │           │   └── Val.java
+│   │   │           ├── constant
+│   │   │           │   └── Names.java
+│   │   │           └── util
+│   │   │               ├── DateUtil.java
+│   │   │               └── NumberUtil.java
+│   │   └── resources
+│   └── test
+│       └── java
+└── target
+    ├── classes
+    │   └── tr
+    │       └── common
+    │           ├── bean
+    │           │   ├── Data.class
+    │           │   ├── DataIn.class
+    │           │   ├── DataOut.class
+    │           │   ├── Producer.class
+    │           │   └── Val.class
+    │           ├── constant
+    │           │   └── Names.class
+    │           └── util
+    │               ├── DateUtil.class
+    │               └── NumberUtil.class
+    └── generated-sources
+        └── annotations
+
+20 directories, 19 files

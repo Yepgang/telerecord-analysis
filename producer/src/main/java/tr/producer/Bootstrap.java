@@ -7,6 +7,9 @@ import tr.producer.io.LocalFileDataOut;
 
 import java.io.IOException;
 
+/**
+ * 生产者启动程序
+ */
 public class Bootstrap {
     public static void main(String[] args) throws IOException {
         if (args.length < 2){

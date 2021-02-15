@@ -2,6 +2,9 @@ package tr.producer.bean;
 
 import tr.common.bean.Data;
 
+/**
+ * 读取的数据对象
+ */
 public class Contact extends Data {
     private String tel;
     private String name;

@@ -1,7 +1,7 @@
 package tr.common.bean;
 
 /**
- * value interface
+ * 值接口，set/get
  */
 public interface Val {
     public void setValue(Object val);
