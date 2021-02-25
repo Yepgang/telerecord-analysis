@@ -5,5 +5,5 @@ package tr.common.bean;
  */
 public interface Val {
     public void setValue(Object val);
-    public Object getVaule();
+    public Object getValue();
 }

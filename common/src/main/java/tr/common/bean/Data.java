@@ -10,7 +10,7 @@ public class Data implements Val {
         content = (String)val;
     }
 
-    public String getVaule() {
+    public String getValue() {
         return content;
     }
 }
