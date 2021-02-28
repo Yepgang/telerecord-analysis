@@ -6,12 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="common" />
         <module name="producer" />
+        <module name="inserttomysql" />
+        <module name="common" />
+        <module name="conntomysql" />
         <module name="consumer" />
+        <module name="whatcoprocessor" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="hbcoprocessor" target="1.5" />
       <module name="tr-common" target="1.5" />
       <module name="tr-producer" target="1.5" />
     </bytecodeTargetLevel>

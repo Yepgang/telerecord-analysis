@@ -12,6 +12,9 @@
         <module>common</module>
         <module>producer</module>
         <module>consumer</module>
+        <module>whatcoprocessor</module>
+        <module>conntomysql</module>
+        <module>inserttomysql</module>
     </modules>
 
 
